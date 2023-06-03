@@ -8,3 +8,5 @@ Running k-means clustering algorithm on this gives 100 clusters, with a range of
 It then tests out the model on some of the remaining functional proteins, for which distribution was found to be within the same range.
 
 What is next is to compare these results with an actual database/model, and to improve it.
+
+The trained model has been uploaded to the main branch itself.
