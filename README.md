@@ -16,4 +16,5 @@ Versions:
   2. Training the k-means model using Word2Vec on 10% of chromosome 1, and predicting clusters for another 10%. The proteins in each cluster were in the range (1000,1600).
 
 Find the dataset here: [GRCh38 Human Genome (DNA)](https://www.kaggle.com/datasets/aliabedimadiseh/grch38-human-genome-dna)
+
 Find my notebook on [Kaggle](https://www.kaggle.com/) which you can copy and edit directly here: [My Notebook](https://www.kaggle.com/code/shashwatsaini04/grch38-protein-clustering)
