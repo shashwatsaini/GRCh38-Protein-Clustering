@@ -14,3 +14,5 @@ The trained model has been uploaded to the main branch itself.
 Versions:
   1. Finding a suitable model. First attempt is using tfidfvectorizer which yieled a model with no usage (12000 proteins in a single cluster, from 12500 approx). Second model using Word2Vec yielded much more favourable results.
   2. Training the k-means model using Word2Vec on 10% of chromosome 1, and predicting clusters for another 10%. The proteins in each cluster were in the range (1000,1600).
+
+Find dataset here: [GRCh38 Human Genome (DNA)](https://www.kaggle.com/datasets/aliabedimadiseh/grch38-human-genome-dna)
